@@ -8,6 +8,5 @@ public class SpringCiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringCiApplication.class, args);
-		System.Out.Println('test');
 	}
 }
